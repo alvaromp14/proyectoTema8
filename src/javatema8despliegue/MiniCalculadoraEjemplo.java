@@ -48,3 +48,4 @@ public class MiniCalculadoraEjemplo {
         System.out.println("La raíz cuadrada de " + numero + " es: " + raiz);
     }
 }
+// Modificación Punto 5
